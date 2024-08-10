@@ -1,7 +1,7 @@
 # Contributers: 
-    FullName: Ori Nahum
+##    FullName: Ori Nahum
         NickName: orinahum
         Contribute: 50%
-    FullName: Avishay Layani
+##    FullName: Avishay Layani
         NickName: layani
         Contribute: 50%
